@@ -1,0 +1,19 @@
+# HELLO REACT
+ 
+
+
+ ...
+
+
+ #Parcel
+-dev build
+-local server
+-HMR =HOT MODULE REPLACEMENT
+-FILE WATCHING ALGORITHM -written in c++
+-Caching -faster Builds
+-IMAGE OPTIMIZATION 
+-MINIFICATION
+-Bundling
+-COMPRESSING
+-CONSISTENT HASHING
+-CODE SPLITTING
